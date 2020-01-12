@@ -1,5 +1,5 @@
 # Enviroplus-DietPi
-Instructions for getting the Enviro+ sensorboard to work with DietPi. Not sure all the steps are needed, but following these steps gets its working.
+Instructions for getting the Enviro+ sensorboard to work with DietPi. Not sure all the steps are needed, but following these steps gets it working.
 
 # Installing DietPi 
 ## Minimal system
