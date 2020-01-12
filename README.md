@@ -5,7 +5,7 @@ Instructions for getting the Enviro+ sensorboard to work with DietPi. Not sure a
 ## Minimal system
 Go to https://dietpi.com/phpbb/viewforum.php?f=8 for instructions and guides to get to setup a minimal system.
 
-## Additional setup to get the board running on DietPi
+## Additional setup to get the Enviro+ board running on DietPi
 The complete guide for Enviro+ is found here: https://github.com/pimoroni/enviroplus-python/. For DietPi, do the following:
 
 * `pip install enviroplus && pip3 install enviroplus`. 
