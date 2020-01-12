@@ -1,4 +1,4 @@
-# Enviroplus-DietPi
+# Enviroplus-DietPi with MQTT
 Instructions for getting the Enviro+ sensorboard to work with DietPi. Not sure all the steps are needed, but following these steps gets it working.
 
 # Installing DietPi 
