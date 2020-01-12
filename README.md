@@ -21,15 +21,14 @@ You'll need to edit the DietPi config files. If editing from DietPi use `sudo na
 Install the following dependencies:
 
 * `apt install python-numpy python3-numpy`
-* `apt install python-smbus python3-smbus
-*	`apt install python-setuptools python3-setuptools
+* `apt install python-smbus python3-smbus`
+*	`apt install python-setuptools python3-setuptools`
 * `apt install build-essential`
 * `apt install gdb-multiarch`
 *	`pip install spidev`
 *	`pip3 install spidev`
 *	`pip install requests`
 *	`pip3 install requests`
-* `pip3 install future`
 
 ## Clone repositories for examples and MQTT support
 
