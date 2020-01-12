@@ -42,4 +42,4 @@ Install the following dependencies:
 # Running the Enviro+ on DietPi
 
 For the Enviro+ board, use `python /usr/src/enviroplus/*.py`. Tip: The PMS35003 will not initiate if you run combined.py before luftdaten.py.
-As for MQTT, use `python3 /usr/src/enviroplus-mqtt/src/main.py <arugments>` For a list of arguments, see https://github.com/hotplot/enviroplus-mqtt#supported-arguments
+As for MQTT, use `python3 /usr/src/enviroplus-mqtt/src/main.py <arguments>` For a list of arguments, see https://github.com/hotplot/enviroplus-mqtt#supported-arguments
