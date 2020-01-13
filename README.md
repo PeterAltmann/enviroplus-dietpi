@@ -36,7 +36,7 @@ Install the following dependencies:
 2. Optional for MQTT: Clone hotplot's repository for MQTT: `sudo git clone https://github.com/hotplot/enviroplus-mqtt /usr/src/enviroplus-mqtt`
 3. Optional: clone Pimoroni's repository for example files: `git clone https://github.com/pimoroni/enviroplus-python /usr/src/enviroplus`
 4. Make sure you have a MQTT broker setup (local one works fine, check mosquitto https://dietpi.com/phpbb/viewtopic.php?f=8&t=5). Get the host ip (below, I use localhost). **Note:** hotplot's logger requires paho-mqtt.
-5. Same as step 5 at https://github.com/hotplot/enviroplus-mqtt (make sure to update `User` field, and the <arguments>).
+5. Same as step 5 at https://github.com/hotplot/enviroplus-mqtt (make sure to update `User` field, and the "<arguments>").
 6. Same as step 6 at https://github.com/hotplot/enviroplus-mqtt
   
 # Running the Enviro+ on DietPi
